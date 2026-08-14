@@ -1,4 +1,5 @@
 AppointEase – Online Healthcare Appointment Booking System
+<img width="1536" height="1024" alt="ChatGPT Image Aug 15, 2026, 12_56_28 AM" src="https://github.com/user-attachments/assets/340a48c6-0793-417c-b717-6af3efd97ce0" />
 
 AppointEase is a cloud-powered web application for discovering doctors, viewing available appointment slots, booking appointments, and managing existing bookings.
 
